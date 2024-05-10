@@ -10,4 +10,18 @@ Silent-Voice is an Android app that empowers the deaf and hard of hearing commun
 # Installation
 Follow these steps to install Sign2Speech on your Android device:
 
-*Clone the repository:git clone https://github.com/your-username/sign2speech-android-app.git
+* Clone the repository:git clone https://github.com/your-username/sign2speech-android-app.git
+#Usage
+Using Sign2Speech is simple and intuitive:
+
+Launch the app on your Android device.
+
+Customize your language preferences in the app settings.
+
+Aim the device's camera towards the sign language gestures you want to translate.
+
+The app will detect and interpret the gestures and provide spoken translations.
+
+Adjust settings, such as the speech rate or voice, to suit your preferences.
+
+Communicate effectively with both deaf and hearing individuals.
